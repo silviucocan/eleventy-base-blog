@@ -14,9 +14,10 @@ eleventyComputed:
   title: Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slugify }}/
 ---
-<h1>Tagged “{{ tag }}”</h1>
+<h1>TMy First Blog “{{ tag }}”</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
-<p>See <a href="/tags/">all tags</a>.</p>
+p>Here, you'll find posts about all sorts of things that interest me.</p>
+<p>Stay tuned for updates!</p>

@@ -1,12 +1,15 @@
 ---
 title: This is my third post.
 description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+date: 2023-04-24
 tags:
   - second tag
   - posts with two tags
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The future of AI in Coding
+Artificial Intelligence (AI) has left quite an impact on our lives in recent years, and the field of coding is no exception. In this post, we will explore the future possibilities of AI in programming, including the automation of coding and the role of AI in detecting and correcting errors in code.
+
+
 
 ## Code
 

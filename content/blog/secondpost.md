@@ -5,7 +5,10 @@ date: 2018-07-04
 tags:
   - number 2
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Top 5 Languages to Learn for Beginners
+Are you interested in learning how to code but don't know where to start? In this post, we will list the top 5 programming languages that are ideal for beginners, discussing their features, ease of learning, and applications.
+
+
 
 ## Section Header
 

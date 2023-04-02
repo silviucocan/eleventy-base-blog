@@ -1,9 +1,10 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: My First Blog
   order: 3
 ---
-# About Me
+# My First Blog
 
-I am a person that writes stuff.
+My name is Silviu Cocan, and I'm passionate about code.
+Thanks for stopping by!
