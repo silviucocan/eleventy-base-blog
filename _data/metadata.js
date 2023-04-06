@@ -1,5 +1,5 @@
 module.exports = {
-	"title": "My Best Blog",
+	"title": "My Best Blog Silviu",
 	"url": "https://example.com/",
 	"language": "en",
 	"description": "Here, you'll find posts about all sorts of things that interest me.",
