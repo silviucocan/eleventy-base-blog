@@ -27,11 +27,11 @@
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
-		--text-color-link-visited: #a6a6f8;
+		--text-color-link: #7EC3FB;
+		--text-color-link-active: #A5A5F8;
+		--text-color-link-visited: #c2c2fa;
 
-		--background-color: #15202b;
+		--background-color: #1D1D44;
 	}
 }
 
@@ -48,13 +48,13 @@ body {
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
-	background-color: #6969f7;
+	background-color: #1D1D44;
 }
 html {
 	overflow-y: scroll;
 }
 body {
-	background-color: #6969f7;
+	background-color: #1D1D44;
 	max-width: 40em;
 }
 
